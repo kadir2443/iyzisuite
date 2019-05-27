@@ -28,7 +28,7 @@
 
 <body>
   <section id="header" class="appear"></section>
-  <div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:65px; height:65px; background-color:rgba(0,0,0,0.3);" data-300="line-height:50px; height:50px; background-color:rgba(5, 42, 62, 1);">
+  <div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:60px; height:60px; background-color:rgba(0,0,0,0.3);" data-300="line-height:50px; height:50px; background-color:rgba(5, 42, 62, 1);">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -53,8 +53,8 @@
 
   <section id="intro">
     <div class="intro-content">
-      <h2>Guzel Igdiri Taniyalim</h2>
-      <h3>Iğdır, Türkiye'nin Doğu Anadolu Bölgesi'nde ve Türkiye'nin en doğusunda yer alan bir ildir. Merkezi Iğdır kentidir. Doğu Anadolu Bölgesi'nin Erzurum - Kars Bölümü'nde yer almaktadır. 27 Mayıs 1992 tarihinde Kars ili'nden ayrılarak Türkiye'nin 76. ili olmuştur. 4 ilçe, 8 belediye ve 157 köyden oluşur</h3>
+      <h3>Guzel Igdiri Taniyalim</h3>
+      <h4>Iğdır, Türkiye'nin Doğu Anadolu Bölgesi'nde ve Türkiye'nin en doğusunda yer alan bir ildir. Merkezi Iğdır kentidir. Doğu Anadolu Bölgesi'nin Erzurum - Kars Bölümü'nde yer almaktadır. 27 Mayıs 1992 tarihinde Kars ili'nden ayrılarak Türkiye'nin 76. ili olmuştur. 4 ilçe, 8 belediye ve 157 köyden oluşur</h4>
       <div>
         <a href="#section-services" class="btn-get-started scrollto">BASLAYALIM</a>
       </div>
