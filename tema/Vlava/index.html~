@@ -227,7 +227,13 @@ Atlanırken okunan manilerden biri:</p>
 <li>Ağır Garadağlı</li>
 <li>Alça Gülü </li>
 <li>Cehribeyim </li>
-<li>Velaçola</li>
+<li>Mehribanım Çal Oyna</li>
+<li>Semeni</li>
+<li>Şalaho</li>
+<li>Brilyant(Pırlanta)</li>
+<li>Çit Tuman</li>
+<li>Enzeli</li>
+
 </ul>  
   </div>
   <div class="col-md-3">
@@ -241,6 +247,9 @@ Atlanırken okunan manilerden biri:</p>
 <li> <a href="http://tr.wikipedia.org/wiki/Garmon" title="Garmon">Garmon</a> </li>
 <li> <a href="http://tr.wikipedia.org/wiki/Kabak_kemane" title="Kabak kemane">Kabak kemane</a> </li>
 <li> <a href="http://tr.wikipedia.org/wiki/Balaban" title="Balaban">Balaban</a> </li>
+<li> <a href="http://tr.wikipedia.org/wiki/Kemen%C3%A7e" title="Kemençe">Kemençe</a></li>
+<li> <a href="http://tr.wikipedia.org/wiki/Tulum" title="Tulum">Tulum</a></li>
+<li> <a href="http://tr.wikipedia.org/wiki/Zurna" title="Tulum">Zurna</a></li>
 </ul>
 </div>
 
@@ -262,10 +271,16 @@ Atlanırken okunan manilerden biri:</p>
 <li>Kayış : Eni 3 cm, boyu 1.5 m olan deriden yapılır. Kenar kısmı saçaklıdır.</li>
 <li>Çizme : Yumuşak ince deriden yapılan tek parça olan bağcıklı ayakkabı.</li>
 <li>Kama : Yay biçiminde, uçları oval şekilde olan işlemeli ve süslü kabza.</li>
-<li>Cepken : Kol uzunluu parmak uzunluğundan 10 cm daha uzun şeklinde ve iç astarı kırmızı satenden yapılan ve genellikle siyah renkte olan ve üzerinde mermilikler bulunan giysi.</li>
 </ul>
-
 </div>
+<div class="col-md-12">
+<h4>Cocuk Kiyafetleri</h4>
+<p>Dünyaya gelen çocuk, erkek olsun kız olsun aynı elbise giydirilir. Çocuk doğduktan sonra onu gelişi güzel fakat temiz bir bezle sararlar. Önceden ona yapılmış olan elbiseyi getirerek giydirirler. Bu tahminen çocuğun boyunda (uzunluğunda) yapılmış bir gömlektir. Giyildiğinde zorluk olmasın diye önü göbeğe kadar açık fakat düğmelidir. Kolları da çocuğun ellerine ve hareketine mani teşkil etmeyecek kısalıktadır.
+
+Kundak, normal ölçüler dahilinde sağlığa uygun bir şekilde yapılmaktadır. Çocuğa hazırlanan gömlek giydirildikten sonra temiz bezlerle sarılır. Sonra kundağa, astar görevini gören bezle sarılır. Bu bezin koyu renklerden olmasına dikkat edilir. En üst kısma kundak bezi sarılır. Kundak bezi, işlemeli ve çeşitli motiflidir. Kundak, kundak bağı denilen bir bağla ayrıca sarılmaktadır.
+
+Bundan sonra çocukların başına ayrıca başlık yapılır, buna "papah" da denilir. Papahlar çeşitli olurlar. Bazılarının ortaları sivri olup, bir külahı andırmaktadır. Çocukların ayaklarına ayrıca çorap biçiminde "patik" giydirilir.</p></div>
+
   </section>
   <!-- spacer section:stats -->
   <section id="parallax1" class="section" data-stellar-background-ratio="0.5">
@@ -478,8 +493,7 @@ Atlanırken okunan manilerden biri:</p>
 
   <!-- map -->
   <section id="section-map" class="clearfix">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-  </section>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97922.71863143948!2d43.966736999476794!3d39.91711493132612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406b20d99e2b09f5%3A0x9016d4e8530b3034!2zScSfZMSxciwgScSfZMSxciBNZXJrZXovScSfZMSxcg!5e0!3m2!1str!2str!4v1558955861636!5m2!1str!2str" width="1250" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
 
   <!-- contact -->
   <section id="section-contact" class="section appear clearfix">
