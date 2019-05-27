@@ -334,6 +334,7 @@ section.section {
 
 #testimonials{
 	background-image: url(../img/parallax/img3.jpg);
+	background-size: cover;
 }
 /*===========================
   --- Header & menu ----
